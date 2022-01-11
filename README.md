@@ -1,7 +1,7 @@
-# Pandas
+## Pandas
 
+#PyCitySchools
 ____________________________________________________________________________________________________________________________________________________________________________
-PyCitySchools Chosen as Pandas Homework Assignment
 
 -	I chose PyCitySchools because it looked a little more challenging than Heroes of Pymoli and because of this, I felt I would be able to apply more of what I have learned in class and gain more coding experience by choosing PyCitySchools to prepare me better for outside of class.
 
